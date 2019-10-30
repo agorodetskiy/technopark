@@ -1,3 +1,3 @@
-# technopark
+# Technopark, Mail.ru Group & BMSTU educational project
 
-code for advanced c++ / algo courses
+Advanced C++ and algorithms courses assignments.
