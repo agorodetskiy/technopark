@@ -1,3 +1,3 @@
 ### Technopark, Mail.ru Group & BMSTU educational project, 2017
 
-Advanced C++ and algorithms courses assignments.
+Assignments for advanced C++ and algorithms courses.
